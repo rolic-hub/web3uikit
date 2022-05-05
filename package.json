@@ -48,7 +48,7 @@
         "react-moralis": "^1.3.5",
         "react-router-dom": "^6.3.0",
         "styled-components": "^5.3.3",
-        "wp5-cra-polyfill": "oscario2/wp5-cra-polyfill#60c7d2c"
+        "wp5-cra-polyfill": "oscario2/wp5-cra-polyfill#5e0ec5c"
     },
     "prettier": {
         "printWidth": 80,
